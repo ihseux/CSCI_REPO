@@ -1,12 +1,13 @@
-{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang1033\deflangfe1033\themelang18441\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}
-{\f44\fbidi \froman\fcharset0\fprq2{\*\panose 02020602080505020303}Baskerville Old Face;}{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}
-{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
-{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f265\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\f266\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
-{\f268\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f269\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f270\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f271\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
-{\f272\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f273\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f605\fbidi \froman\fcharset238\fprq2 Cambria Math CE;}{\f606\fbidi \froman\fcharset204\fprq2 Cambria Math Cyr;}
-{\f608\fbidi \froman\fcharset161\fprq2 Cambria Math Greek;}{\f609\fbidi \froman\fcharset162\fprq2 Cambria Math Tur;}{\f612\fbidi \froman\fcharset186\fprq2 Cambria Math Baltic;}{\f613\fbidi \froman\fcharset163\fprq2 Cambria Math (Vietnamese);}
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi0\deflang18441\deflangfe2052\themelang18441\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f39\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Baskerville Old Face;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0302020204030204}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f41\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f42\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f44\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f45\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f46\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f47\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f48\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f49\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f41\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f42\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f44\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f45\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f46\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f47\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f48\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f49\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
 {\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
 {\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
 {\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
@@ -33,7 +34,7 @@
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
 \fs22\lang18441\langfe2052\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp18441\langfenp2052 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}{\*
 \ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 \fs22\lang18441\langfe2052\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp18441\langfenp2052 \snext11 \ssemihidden \sunhideused 
 Normal Table;}}{\*\listtable{\list\listtemplateid1208549407{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\rtlch\fcs1 \af0 \ltrch\fcs0 
 \fi-360\li360\lin360 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-432\li792\lin792 }{\listlevel\levelnfc0
 \levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fi-504\li1224\lin1224 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
@@ -99,124 +100,116 @@ Normal Table;}}{\*\listtable{\list\listtemplateid1208549407{\listlevel\levelnfc0
 \'01\'03\'05\'07\'09\'0b\'0d\'0f;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-2160\li2160\lin2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
 \'11\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\rtlch\fcs1 \af0 \ltrch\fcs0 \fbias0 \fi-2520\li2520\lin2520 }{\listname ;}\listid1810631740}}{\*\listoverridetable{\listoverride\listid1478034906
 \listoverridecount0\ls1}{\listoverride\listid588807745\listoverridecount0\ls2}{\listoverride\listid1026711018\listoverridecount0\ls3}{\listoverride\listid1810631740\listoverridecount0\ls4}{\listoverride\listid1008677305\listoverridecount0\ls5}
-{\listoverride\listid704253150\listoverridecount0\ls6}{\listoverride\listid1438256509\listoverridecount0\ls7}}{\*\rsidtbl \rsid1077085\rsid1652308\rsid1706335\rsid2120276\rsid2244380\rsid2622571\rsid5208987\rsid5382990\rsid5900441\rsid7291202\rsid8533101
-\rsid8733625\rsid9249005\rsid9335300\rsid9711879\rsid10114941\rsid10495623\rsid10688504\rsid11231910\rsid12200144\rsid12353139\rsid12655658\rsid14420369\rsid15560459\rsid15612299\rsid15825761\rsid16003986\rsid16066379\rsid16397327}{\mmathPr\mmathFont34
-\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator desmond}{\creatim\yr2017\mo8\dy7\hr16\min51}{\revtim\yr2017\mo8\dy8\hr17\min22}{\version23}{\edmins136}{\nofpages5}{\nofwords313}
-{\nofchars1789}{\nofcharsws2098}{\vern49167}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+{\listoverride\listid704253150\listoverridecount0\ls6}{\listoverride\listid1438256509\listoverridecount0\ls7}}{\*\rsidtbl \rsid227027\rsid1077085\rsid1652308\rsid1706335\rsid2120276\rsid2244380\rsid2622571\rsid3413516\rsid5208987\rsid5382990\rsid5900441
+\rsid7291202\rsid8533101\rsid8733625\rsid9249005\rsid9335300\rsid9711879\rsid10114941\rsid10495623\rsid10688504\rsid11231910\rsid12200144\rsid12353139\rsid12655658\rsid14420369\rsid15560459\rsid15612299\rsid15825761\rsid16003986\rsid16066379\rsid16397327}
+{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Joshua Ong}{\creatim\yr2017\mo8\dy7\hr16\min51}{\revtim\yr2017\mo8\dy12\hr15\min3}{\version24}{\edmins151}
+{\nofpages5}{\nofwords321}{\nofchars1831}{\nofcharsws2148}{\vern57443}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw12240\paperh15840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
 \dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\rsidroot15825761 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
 \pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
 {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs22\alang1025 \ltrch\fcs0 
-\fs22\lang18441\langfe2052\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp18441\langfenp2052 {\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f44\fs72\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 Sof}{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 
-\f44\fs72\insrsid15825761 \hich\af44\dbch\af31505\loch\f44 tware Requirement Specification}{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f44\fs72\insrsid2120276 
-\par }{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f44\fs72\insrsid15825761 
-\par \hich\af44\dbch\af31505\loch\f44 For 
-\par \hich\af44\dbch\af31505\loch\f44 Project
-\par \hich\af44\dbch\af31505\loch\f44 <CCBFS>
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761 
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 Version }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761 \hich\af44\dbch\af31505\loch\f44 1.0 approved
-\par \hich\af44\dbch\af31505\loch\f44 Prepared}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid12200144 \hich\af44\dbch\af31505\loch\f44  and Developed}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761 \hich\af44\dbch\af31505\loch\f44 
+\fs22\lang18441\langfe2052\loch\af31506\hich\af31506\dbch\af31505\cgrid\langnp18441\langfenp2052 {\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f39\fs72\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 Sof}{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 
+\f39\fs72\insrsid15825761 \hich\af39\dbch\af31505\loch\f39 tware Requirement Specification}{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f39\fs72\insrsid2120276 
+\par }{\rtlch\fcs1 \af0\afs72 \ltrch\fcs0 \f39\fs72\insrsid15825761 
+\par \hich\af39\dbch\af31505\loch\f39 For 
+\par \hich\af39\dbch\af31505\loch\f39 Project
+\par \hich\af39\dbch\af31505\loch\f39 <CCBFS>
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761 
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 Version }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761 \hich\af39\dbch\af31505\loch\f39 1.0 approved
+\par \hich\af39\dbch\af31505\loch\f39 Prepared}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid12200144 \hich\af39\dbch\af31505\loch\f39  and Developed}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761 \hich\af39\dbch\af31505\loch\f39 
  by Team A-1
-\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid2244380 \hich\af44\dbch\af31505\loch\f44 For: }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761 \hich\af44\dbch\af31505\loch\f44 Country Club
-\par \hich\af44\dbch\af31505\loch\f44 As of 8 August 2017
-\par \page }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f44\fs40\insrsid15825761 \hich\af44\dbch\af31505\loch\f44 Table of Contents
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15825761\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 1.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 Introduction
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 1.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 Purpose
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 1.2.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 Intended Audience
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 1.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 Project Scope 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 1.4.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid15825761 \hich\af44\dbch\af31505\loch\f44 References
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15825761\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 2.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid15825761\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 Overall Description
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 Product Features
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.2.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 User Classes and Characteristics
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 Operating Environment
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.4.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 Design and Implementation Constraint
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.5.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 User Documentation
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid15560459 \hich\af44\dbch\af31505\loch\f44 2.6.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid9249005 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid15560459 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid15825761\charrsid1652308 \hich\af44\dbch\af31505\loch\f44 Assumptions and Dependencies
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\lang18441\langfe2052\langnp18441\langfenp2052\insrsid9249005\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 3.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid9249005\charrsid9249005 \hich\af44\dbch\af31505\loch\f44 System Features}{\rtlch\fcs1 \af0\afs32 
-\ltrch\fcs0 \f44\fs32\insrsid10688504 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\lang18441\langfe2052\langnp18441\langfenp2052\insrsid16066379 \hich\af44\dbch\af31505\loch\f44 4.\tab}}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid16066379 
-\hich\af44\dbch\af31505\loch\f44 Additional }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid12655658 \hich\af44\dbch\af31505\loch\f44 Appendixes}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid16066379 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid9711879 \hich\af44\dbch\af31505\loch\f44 4.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid16066379 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid9711879 \hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
-\f44\fs24\insrsid16066379\charrsid9711879 \hich\af44\dbch\af31505\loch\f44 Appendix A
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid9711879 \hich\af44\dbch\af31505\loch\f44 4.2.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid9711879 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid16066379\charrsid9711879 \hich\af44\dbch\af31505\loch\f44 Appendix B 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f44\lang18441\langfe2052\langnp18441\langfenp2052\insrsid9711879 \hich\af44\dbch\af31505\loch\f44 4.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid9711879 
-\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f44\fs24\insrsid16066379\charrsid9711879 \hich\af44\dbch\af31505\loch\f44 Appendix C
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid5208987 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f44\fs40\lang18441\langfe2052\langnp18441\langfenp2052\insrsid5208987 \hich\af44\dbch\af31505\loch\f44 1.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f44\fs32\insrsid5208987 \page }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f44\fs40\ul\insrsid5208987\charrsid8533101 
-\hich\af44\dbch\af31505\loch\f44 Introduction}{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f44\fs40\ul\insrsid16397327\charrsid8533101 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\lang18441\langfe2052\langnp18441\langfenp2052\insrsid16397327\charrsid16397327 \hich\af44\dbch\af31505\loch\f44 1.1\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid8533101 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid16397327\charrsid16397327 \hich\af44\dbch\af31505\loch\f44 Purpose}{\rtlch\fcs1 \af0\afs36 
-\ltrch\fcs0 \f44\fs36\ul\insrsid16397327 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44 The purpose of this 
-\hich\af44\dbch\af31505\loch\f44 user-friendly \hich\af44\dbch\af31505\loch\f44 prod\hich\af44\dbch\af31505\loch\f44 uct is \hich\af44\dbch\af31505\loch\f44 to allow club \hich\af44\dbch\af31505\loch\f44 members to make\hich\af44\dbch\af31505\loch\f44 
- bookings easier. It \hich\af44\dbch\af31505\loch\f44 also help\hich\af44\dbch\af31505\loch\f44 s\hich\af44\dbch\af31505\loch\f44  the manager to manage the count\hich\af44\dbch\af31505\loch\f44 ry club in a\hich\af44\dbch\af31505\loch\f44  more
-\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 organized and \hich\af44\dbch\af31505\loch\f44 orderly manner.\line }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10114941 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\lang18441\langfe2052\langnp18441\langfenp2052\insrsid10114941\charrsid10114941 \hich\af44\dbch\af31505\loch\f44 1.2\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid10114941\charrsid10114941 \hich\af44\dbch\af31505\loch\f44 
-Intended Audience and Reading Suggestions}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid10114941 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10114941 \hich\af44\dbch\af31505\loch\f44 This is intended 
-\hich\af44\dbch\af31505\loch\f44 for\hich\af44\dbch\af31505\loch\f44  the targeted clients \hich\af44\dbch\af31505\loch\f44 who\hich\af44\dbch\af31505\loch\f44  will be using our so\hich\af44\dbch\af31505\loch\f44 ftware product. The content }{
-\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44 allows our clients to have a better understanding of what our software product does. \line }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
-\f44\fs28\insrsid10495623\charrsid10495623 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\lang18441\langfe2052\langnp18441\langfenp2052\insrsid14420369\charrsid10495623 \hich\af44\dbch\af31505\loch\f44 1.3\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid14420369\charrsid10495623 \hich\af44\dbch\af31505\loch\f44 Project Scope
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44 The scope}{\rtlch\fcs1 
-\af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623\charrsid8533101 \hich\af44\dbch\af31505\loch\f44  of this product}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44  is to enable country club members to 
-\hich\af44\dbch\af31505\loch\f44 view\hich\af44\dbch\af31505\loch\f44  the\hich\af44\dbch\af31505\loch\f44  availability\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 and prices }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
-\f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44 of\hich\af44\dbch\af31505\loch\f44  the\hich\af44\dbch\af31505\loch\f44  }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 \hich\af44\dbch\af31505\loch\f44 facilities
-\hich\af44\dbch\af31505\loch\f44  as well as\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 mak\hich\af44\dbch\af31505\loch\f44 ing and changing\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 their 
-\hich\af44\dbch\af31505\loch\f44 bookings. \hich\af44\dbch\af31505\loch\f44 It also allows members to check their membership tier and the discounts entitled\hich\af44\dbch\af31505\loch\f44  to them\hich\af44\dbch\af31505\loch\f44 
- pertaining to their tier.\hich\af44\dbch\af31505\loch\f44  They can also up\hich\af44\dbch\af31505\loch\f44 date their personal particulars\hich\af44\dbch\af31505\loch\f44  and\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 store 
-\hich\af44\dbch\af31505\loch\f44 their booking preferences\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 as well a\hich\af44\dbch\af31505\loch\f44 s \hich\af44\dbch\af31505\loch\f44 upgrad\hich\af44\dbch\af31505\loch\f44 ing
-\hich\af44\dbch\af31505\loch\f44  their membership.\hich\af44\dbch\af31505\loch\f44  \line \line \hich\af44\dbch\af31505\loch\f44 This product,\hich\af44\dbch\af31505\loch\f44  on the o\hich\af44\dbch\af31505\loch\f44 ther hand,
-\hich\af44\dbch\af31505\loch\f44  allows the \hich\af44\dbch\af31505\loch\f44 club \hich\af44\dbch\af31505\loch\f44 man\hich\af44\dbch\af31505\loch\f44 ager\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 to 
-\hich\af44\dbch\af31505\loch\f44 create, delete, amend and update the club\loch\af44\dbch\af31505\hich\f44 \rquote \hich\af44\dbch\af31505\loch\f44 s facilities for booking and set the various charging rates.\hich\af44\dbch\af31505\loch\f44  
-\hich\af44\dbch\af31505\loch\f44 Also, it \hich\af44\dbch\af31505\loch\f44 generates a report sending to the manager of the usage of different facilities, the rental \hich\af44\dbch\af31505\loch\f44 behavi\hich\af44\dbch\af31505\loch\f44 
-our of the club member and the discount rates entitled.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid10495623 
+\par }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid2244380 \hich\af39\dbch\af31505\loch\f39 For: }{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761 \hich\af39\dbch\af31505\loch\f39 Country Club
+\par \hich\af39\dbch\af31505\loch\f39 As of 8 August 2017
+\par \page }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f39\fs40\insrsid15825761 \hich\af39\dbch\af31505\loch\f39 Table of Contents
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 1.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 Introduction
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 1.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 Purpose
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 1.2.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 Intended Audience
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 1.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 Project Scope 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 1.4.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid15825761 \hich\af39\dbch\af31505\loch\f39 References
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 2.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid15825761\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 Overall Description
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 Product Features
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.2.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 User Classes and Characteristics
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 Operating Environment
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.4.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 Design and Implementation Constraint
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.5.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 User \hich\af39\dbch\af31505\loch\f39 Documentation
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid15560459 \hich\af39\dbch\af31505\loch\f39 2.6.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid9249005 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid15560459 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid15825761\charrsid1652308 \hich\af39\dbch\af31505\loch\f39 Assumptions and Dependencies
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid9249005\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 3.\tab}}\pard \ltrpar\ql \fi-360\li360\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\adjustright\rin0\lin360\itap0\pararsid15825761 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid9249005\charrsid9249005 \hich\af39\dbch\af31505\loch\f39 System Features}{\rtlch\fcs1 \af0\afs32 
+\ltrch\fcs0 \f39\fs32\insrsid10688504 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid16066379 \hich\af39\dbch\af31505\loch\f39 4.\tab}}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid16066379 \hich\af39\dbch\af31505\loch\f39 Additional }{\rtlch\fcs1 
+\af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid12655658 \hich\af39\dbch\af31505\loch\f39 Appendixes}{\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid16066379 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid9711879 \hich\af39\dbch\af31505\loch\f39 4.1.\tab}}\pard \ltrpar\ql \fi-432\li792\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls2\ilvl1\adjustright\rin0\lin792\itap0\pararsid16066379 {\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid9711879 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid16066379\charrsid9711879 \hich\af39\dbch\af31505\loch\f39 Appendix A
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid9711879 \hich\af39\dbch\af31505\loch\f39 4.2.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid9711879 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid16066379\charrsid9711879 \hich\af39\dbch\af31505\loch\f39 Appendix B 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f39\insrsid9711879 \hich\af39\dbch\af31505\loch\f39 4.3.\tab}}{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f39\fs24\insrsid9711879 \hich\af39\dbch\af31505\loch\f39  }{\rtlch\fcs1 \af0\afs24 \ltrch\fcs0 
+\f39\fs24\insrsid16066379\charrsid9711879 \hich\af39\dbch\af31505\loch\f39 Appendix C
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid5208987 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f39\fs40\insrsid5208987 \hich\af39\dbch\af31505\loch\f39 1.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs32 \ltrch\fcs0 \f39\fs32\insrsid5208987 \page }{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f39\fs40\ul\insrsid5208987\charrsid8533101 
+\hich\af39\dbch\af31505\loch\f39 Introduction}{\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f39\fs40\ul\insrsid16397327\charrsid8533101 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid16397327\charrsid16397327 \hich\af39\dbch\af31505\loch\f39 1.1\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid8533101 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid16397327\charrsid16397327 \hich\af39\dbch\af31505\loch\f39 Purpose}{\rtlch\fcs1 \af0\afs36 
+\ltrch\fcs0 \f39\fs36\ul\insrsid16397327 
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623 \hich\af39\dbch\af31505\loch\f39 
+The purpose of this user-friendly product is to allow club members to make\hich\af39\dbch\af31505\loch\f39  bookings easier. It also helps the manager to manage the country club in a more organized and orderly manner.\line }{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \f39\fs28\insrsid10114941 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid10114941\charrsid10114941 \hich\af39\dbch\af31505\loch\f39 1.2\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid10114941 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid10114941\charrsid10114941 \hich\af39\dbch\af31505\loch\f39 
+Intended Audience and Reading Suggestions}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid10114941 
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10114941 \hich\af39\dbch\af31505\loch\f39 
+This is intended for the targeted clients who will be using our software product. The content }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623 \hich\af39\dbch\af31505\loch\f39 
+allows our clients to have a better understanding of what our software product does. \line }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623\charrsid10495623 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid14420369\charrsid10495623 \hich\af39\dbch\af31505\loch\f39 1.3\tab}}\pard \ltrpar\ql \fi-720\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls4\ilvl1\adjustright\rin0\lin720\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid14420369\charrsid10495623 \hich\af39\dbch\af31505\loch\f39 Project Scope
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10688504 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623 \hich\af39\dbch\af31505\loch\f39 The scope}{\rtlch\fcs1 
+\af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623\charrsid8533101 \hich\af39\dbch\af31505\loch\f39  of this product}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623 \hich\af39\dbch\af31505\loch\f39 
+ is to enable country club members to view the availability and prices of the facilities as well as making and changing their \hich\af39\dbch\af31505\loch\f39 
+bookings. It also allows members to check their membership tier and the discounts entitled to them pertaining to their tier. They can also update their personal particulars and store their booking preferences as well as upgrading their membership. \line 
+\line This \hich\af39\dbch\af31505\loch\f39 p\hich\af39\dbch\af31505\loch\f39 roduct, on the other hand, allows the club manager to create, delete, amend and update the club\hich\f39 \rquote \loch\f39 
+s facilities for booking and set the various charging rates. Also, it generates a report sending to the manager of the usage of different facilities, the renta\hich\af39\dbch\af31505\loch\f39 l\hich\af39\dbch\af31505\loch\f39 
+ behaviour of the club member and the discount rates entitled.
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid10495623 
 \par 
 \par 
 \par 
 \par 
 \par 
 \par 
-\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f44\fs40\lang18441\langfe2052\langnp18441\langfenp2052\insrsid10495623\charrsid2622571 \hich\af44\dbch\af31505\loch\f44 2.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
-\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f44\fs40\ul\insrsid10495623\charrsid2622571 \hich\af44\dbch\af31505\loch\f44 Overall Description}{\rtlch\fcs1 
-\af0\afs40 \ltrch\fcs0 \b\f44\fs40\ul\insrsid14420369 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2622571 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 2.1\tab }{\rtlch\fcs1 
-\af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571\charrsid2622571 \hich\af44\dbch\af31505\loch\f44 Product \hich\af44\dbch\af31505\loch\f44 Perspective}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 Th\hich\af44\dbch\af31505\loch\f44 is \hich\af44\dbch\af31505\loch\f44 is a new, self-contained product\hich\af44\dbch\af31505\loch\f44 . \line 
-\hich\af44\dbch\af31505\loch\f44 *Component diagram*\line }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid2622571\charrsid2622571 
-\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 2.2}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid2622571 \tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571\charrsid2622571 
-\hich\af44\dbch\af31505\loch\f44 Product }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 Features}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 *\hich\af44\dbch\af31505\loch\f44 C\hich\af44\dbch\af31505\loch\f44 lass diagram*
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f39\fs40\insrsid10495623\charrsid2622571 \hich\af39\dbch\af31505\loch\f39 2.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid10495623 {\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f39\fs40\ul\insrsid10495623\charrsid2622571 \hich\af39\dbch\af31505\loch\f39 Overall Description}{\rtlch\fcs1 
+\af0\afs40 \ltrch\fcs0 \b\f39\fs40\ul\insrsid14420369 
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid2622571 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 2.1\tab }{\rtlch\fcs1 
+\af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid2622571\charrsid2622571 \hich\af39\dbch\af31505\loch\f39 Product Perspective}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid2622571 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 This is a new, self-contained product. \line *Component diagram*\line }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid2622571\charrsid2622571 
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 2.2\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid2622571\charrsid2622571 \hich\af39\dbch\af31505\loch\f39 Product }{\rtlch\fcs1 \af0\afs36 
+\ltrch\fcs0 \f39\fs36\ul\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 Features
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 *Class diagram*
 \par 
-\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid2622571 \hich\af44\dbch\af31505\loch\f44 2.3}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid2622571 \tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571\charrsid2622571 
-\hich\af44\dbch\af31505\loch\f44 User Classes and Characteristics}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid2622571 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1706335 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid1077085\charrsid1077085 {\*\shppict
-{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}}\picscalex62\picscaley62\piccropl0\piccropr0\piccropt0\piccropb0
-\picw27781\pich21431\picwgoal15750\pichgoal12150\jpegblip\bliptag1898810956{\*\blipuid 712d8e4cb80e3c46c8f74e06f339c754}ffd8ffe000104a46494600010200000100010000ffdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid2622571 \hich\af39\dbch\af31505\loch\f39 2.3\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid2622571\charrsid2622571 \hich\af39\dbch\af31505\loch\f39 User Classes and Characteristics}{
+\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid2622571 
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1706335 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid1077085\charrsid1077085 {\*\shppict
+{\pict{\*\picprop\shplid1025{\sp{\sn shapeType}{\sv 75}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn pibFlags}{\sv 2}}{\sp{\sn fLine}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 1}}{\sp{\sn fLayoutInCell}{\sv 1}}}
+\picscalex62\picscaley62\piccropl0\piccropr0\piccropt0\piccropb0\picw27781\pich21431\picwgoal15750\pichgoal12150\jpegblip\bliptag1898810956{\*\blipuid 712d8e4cb80e3c46c8f74e06f339c754}
+ffd8ffe000104a46494600010200000100010000ffdb004300080606070605080707070909080a0c140d0c0b0b0c1912130f141d1a1f1e1d1a1c1c20242e2720
 222c231c1c2837292c30313434341f27393d38323c2e333432ffdb0043010909090c0b0c180d0d1832211c213232323232323232323232323232323232323232
 323232323232323232323232323232323232323232323232323232323232ffc0001108032a041a03012200021101031101ffc4001f0000010501010101010100
 000000000000000102030405060708090a0bffc400b5100002010303020403050504040000017d01020300041105122131410613516107227114328191a10823
@@ -1417,7 +1410,7 @@ b358d26d97fbb069eeedff007d34b8ff00c76ba0a28039eff8472fe7ff008fcf14eaf20fee402181
 40051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451
 40051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451
 400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451400514514005145140051451401fffd9}
-}{\nonshppict{\pict\picscalex63\picscaley63\piccropl0\piccropr0\piccropt0\piccropb0\picw27781\pich21431\picwgoal15750\pichgoal12150\wmetafile8\bliptag1898810956\blipupi-96{\*\blipuid 712d8e4cb80e3c46c8f74e06f339c754}
+}{\nonshppict{\pict\picscalex62\picscaley62\piccropl0\piccropr0\piccropt0\piccropb0\picw27781\pich21431\picwgoal15750\pichgoal12150\wmetafile8\bliptag1898810956\blipupi-96{\*\blipuid 712d8e4cb80e3c46c8f74e06f339c754}
 0100090000039682060000006d82060000000400000003010800050000000b0200000000050000000c022b031b04030000001e00040000000701040004000000
 070104006d820600410b2000cc002a031a04000000002a031a0400000000280000001a0400002a03000001000800000000000000000000000000000000000000
 00000000000000000000ffffff00fefefe00fcfcfc00f8f8f800f9f9f900fbfbfb00f7f7f700fdfdfd00fafafa00f6f6f600f5f5f500f4f4f400f3f3f300eaea
@@ -14750,25 +14743,26 @@ d4505b010303010c0109080b010187010904010204050101010908080c010101be01010601018d01
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010000040000002701ffff030000000000}}}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
-\f44\fs28\insrsid1706335 
-\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1077085 
-\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 2.}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 4}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 
-\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 Operating Environment}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid1706335 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 C++ \hich\af44\dbch\af31505\loch\f44 & NetBeans \hich\af44\dbch\af31505\loch\f44 v\hich\af44\dbch\af31505\loch\f44 8.2}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 
-\f44\fs28\insrsid15612299 
-\par \hich\af44\dbch\af31505\loch\f44 Windows Operating System.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid1706335 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid15612299 
-\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 2.}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 5}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid1706335 
-\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid1706335 \hich\af44\dbch\af31505\loch\f44 Design and Implementation Constraints}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid1706335 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid11231910 \hich\af44\dbch\af31505\loch\f44 The software product}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid5900441 \hich\af44\dbch\af31505\loch\f44  will be writ}{\rtlch\fcs1 \af0\afs28 
-\ltrch\fcs0 \f44\fs28\insrsid11231910 \hich\af44\dbch\af31505\loch\f44 ten in C++.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid1706335 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid11231910 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11231910 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid11231910 \hich\af44\dbch\af31505\loch\f44 2.}{\rtlch\fcs1 
-\af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid11231910 \hich\af44\dbch\af31505\loch\f44 6}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\insrsid11231910 \tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid11231910 \hich\af44\dbch\af31505\loch\f44 
-Assumptions and Dependencies}{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f44\fs36\ul\insrsid11231910 
-\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1706335 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid15612299 \hich\af44\dbch\af31505\loch\f44 T
-\hich\af44\dbch\af31505\loch\f44 he software product will only\hich\af44\dbch\af31505\loch\f44  \hich\af44\dbch\af31505\loch\f44 run\hich\af44\dbch\af31505\loch\f44  on Windows.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid11231910 
-\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f44\fs28\insrsid1706335\charrsid1706335 
+\f39\fs28\insrsid1706335 
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid1077085 
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid1706335 \hich\af39\dbch\af31505\loch\f39 2.4\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid1706335 \hich\af39\dbch\af31505\loch\f39 Operating Environment
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid1706335 \hich\af39\dbch\af31505\loch\f39 C++ & NetBeans v8.2}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid15612299 
+\par \hich\af39\dbch\af31505\loch\f39 Windows Operating System.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid1706335 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid15612299 
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid1706335 \hich\af39\dbch\af31505\loch\f39 2.5\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid1706335 \hich\af39\dbch\af31505\loch\f39 Design and Implementation Constraints
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid11231910 \hich\af39\dbch\af31505\loch\f39 The software product}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid5900441 \hich\af39\dbch\af31505\loch\f39  will be writ}{\rtlch\fcs1 \af0\afs28 
+\ltrch\fcs0 \f39\fs28\insrsid11231910 \hich\af39\dbch\af31505\loch\f39 ten in C++.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid1706335 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid11231910 
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid11231910 {\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid11231910 \hich\af39\dbch\af31505\loch\f39 2.6\tab }{\rtlch\fcs1 
+\af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid11231910 \hich\af39\dbch\af31505\loch\f39 Assumptions and Dependencies
+\par }\pard \ltrpar\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid1706335 {\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid15612299 \hich\af39\dbch\af31505\loch\f39 
+The software product will only run on Windows.}{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid11231910 
+\par }{\rtlch\fcs1 \af0\afs28 \ltrch\fcs0 \f39\fs28\insrsid1706335 
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\insrsid3413516 \hich\af39\dbch\af31505\loch\f39 2.6\tab }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid3413516 \hich\af39\dbch\af31505\loch\f39 Assumptions and Dependencies
+\par }{\rtlch\fcs1 \af0\afs36 \ltrch\fcs0 \f39\fs36\ul\insrsid227027 
+\par {\listtext\pard\plain\ltrpar \rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \f39\fs40\insrsid227027\charrsid227027 \hich\af39\dbch\af31505\loch\f39 3.\tab}}\pard \ltrpar\ql \fi-360\li720\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\ls6\adjustright\rin0\lin720\itap0\pararsid227027 {\rtlch\fcs1 \af0\afs40 \ltrch\fcs0 \b\f39\fs40\ul\insrsid227027\charrsid227027 \hich\af39\dbch\af31505\loch\f39 System Features}{\rtlch\fcs1 \af0\afs40 
+\ltrch\fcs0 \b\f39\fs40\ul\insrsid227027\charrsid227027 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
 5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
@@ -14780,7 +14774,7 @@ c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725
 a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
 6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
 4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
-4757e8d3f729e245eb2b260a0238fd010000ffff0300504b03041400060008000000210067a38ea89a070000d2200000160000007468656d652f7468656d652f
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100b6f4679893070000c9200000160000007468656d652f7468656d652f
 7468656d65312e786d6cec59cd8b1bc915bf07f23f347d97f5d5ad8fc1f2a24fcfda33b6b164873dd648a5eef2547789aad28cc56208de532e81c026e49085bd
 ed21842cecc22eb9e48f31d8249b3f22afaa5bdd5552c99e191c3061463074977eefd5afde7bf5de53d5ddcf5e26d4bbc05c1096f6fcfa9d9aefe174ce16248d
 7afeb3d9a4d2f13d2151ba4094a5b8e76fb0f03fbbf7eb5fdd454732c609f6403e1547a8e7c752ae8eaa5531876124eeb0154ee1bb25e30992f0caa3ea82a34b
@@ -14809,23 +14803,23 @@ f942f92973f5d6bbda991fd3d3878c69450034d8db08283ddd555c0f2e4fad2e0bb52b78da226184
 faadb081f196af190c6a98242f8467912ab0a651ad6a5a548d8cc3c1aafb6121653923699635d3ca2aaa6abab39835c3b60cecd8f26645de60b53531e434b3c2
 67a97b37e576b7b96ea74f28aa0418bcb09fa3ea5ea12018d4cac92c6a8af17e1a56393b1fb56bc776811fa07695226164fdd656ed8edd8a1ae19c0e066f54f9
 416e376a6168b9ed2bb5a5f5adb979b1cdce5e40f2184197bba6526857c2c92e47d0104d754f92a50dd8222f65be35e0c95b73d2f3bfac85fd60d80887955a27
-1c57826650ab74c27eb3d20fc3667d1cd66ba341e31514161927f530bbb19fc00506dde4f7f67a7cefee3ed9ded1dc99b3a4caf4dd7c5513d777f7f5467e77af
-effe7bbef312df23907dbe6c3526dd6677d0aa749bfd4925180d3a95eeb035a88c5ac3f668321a869deee495ef5d6870d06f0e83d6b85369d587c34ad0aaa975
-74ba9576d068f48376bf330efaaff27e064c90e591dc2860674df0de7f010000ffff0300504b0304140006000800000021000dd1909fb60000001b0100002700
-00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0ad
-d40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b
-284d262452282e3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f16
-5dfe514173d9850528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c0200001300000000
-000000000000000000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b000000
-00000000000000000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c00000000000000000000
-000000190200007468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d001400060008000000210067a38ea89a070000d220000016
-00000000000000000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b
-0100002700000000000000000000000000a40a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d0100009f0b00000000}
+1c57826650ab74c27eb3d20fc3667d1cd66ba341e31514161927f530bbb19fc00506dde4f7f67a7cefee3ed9ded1dc99b3a4caf4dd7c5513d777f7f5c6e1bb7b
+8f40d2f9b2d598749bdd41abd26df627956034e854bac3d6a0326a0ddba3c9681876ba9357be77a1c141bf390c5ae34ea5551f0e2b41aba6e877ba9576d068f4
+8376bf330efaaff23606569ea58fdc16605ecdebde7f010000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d65
+2f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d36
+3f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e
+3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d985
+0528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c020000130000000000000000000000
+0000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000
+000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c0000000000000000000000000019020000
+7468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d0014000600080000002100b6f4679893070000c92000001600000000000000
+000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b01000027000000
+000000000000000000009d0a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000980b00000000}
 {\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
 617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
 6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
 656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
-{\*\latentstyles\lsdstimax267\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+{\*\latentstyles\lsdstimax371\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdpriority0 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
 \lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
 \lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
 \lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
@@ -14878,7 +14872,32 @@ d40384e4350d363f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719a
 \lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
 \lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
 \lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
-\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;}}{\*\datastore 0105000002000000180000004d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;}}{\*\datastore 010500000200000018000000
+4d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
 d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
@@ -14887,8 +14906,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000070c5
-e8d42710d301feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000030b5
+581e3913d301feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
