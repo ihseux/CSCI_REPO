@@ -3,6 +3,10 @@
 #include <windows.h>
 #include <string>
 
+//#include "Member.h"
+//#include "Booking.h"
+//#include "Manager.h"
+ 
 using namespace std;
 
 
@@ -22,4 +26,17 @@ void main (void)
  user.userID = "TOM";
  user.passwd = "password";
 }
+
+//change password
+//forget password
+//register user
+//make booking
+
+
+//EncryptInfo
+//DecryptInfo
+//NotificationUserBooking
+//ValidateUser
+
+
 
