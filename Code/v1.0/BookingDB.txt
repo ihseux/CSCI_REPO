@@ -1,0 +1,2 @@
+tom|27 08 2017|BowlingAlley|11:30|13:30|31|
+tom|30 08 2017|BowlingAlley|12:30|13:30|31|
